@@ -108,6 +108,12 @@ const GATEWAY_V1 = {
         SBINFTMultiCall: "0x164b686350203888A8058c7c883dA1e1b047d145",
       },
     },
+    oas_sgvtest: {
+      Proxy: {
+        SBINFTForwarder: "0x307E7a9713dBf6f19a2d2a2b670544f4791c4eC2",
+        SBINFTMultiCall: "0x5832E3df2E83F060C417372a93758FE1C77E164D",
+      },
+    },
     oas_testnet: {
       Proxy: {
         SBINFTForwarder: "0x22fF92594Ee0EB70Cbffe673f55A9Dd7c4Dc8199",
@@ -336,6 +342,14 @@ const MARKET_V1 = {
         PlatformRegistry: "0xBcBC9b9Fc75E8E32c5b8baFd9ed7f653378A7809",
       },
     },
+    oas_sgvtest: {
+      Proxy: {
+        Exchange: "0xF4ADDB64881f8b235576897794933b91374CD33E",
+        RoyaltyRegistry: "0x047d47AC7C3212dd3ABB0E8Cf9639c4A76C48a96",
+        TransferProxy: "0x866ceaFF7778643926271f1DDe9e9c5F13d0243a",
+        PlatformRegistry: "0xE2ce61F588f75dC4CDD8Aa544fF903a3d4853749",
+      },
+    },
     oas_testnet: {
       Proxy: {
         Exchange: "0x5DCf64eD66153FB661A1Ec244749A884e02a1097",
@@ -505,6 +519,9 @@ const COLLECTION = {
     },
     oas_gesomainnet: {
       NANAKUSA_FACTORY: "0x07b942C119e544730Dd55F2Cb0Cbfad91859A3da",
+    },
+    oas_sgvtest: {
+      NANAKUSA_FACTORY: "0xBD8c6C61259CaFBa655551a39c408cFAAB7315da",
     },
     oas_testnet: {
       NANAKUSA_FACTORY: "0x0000000000000000000000000000000000000000",
