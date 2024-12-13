@@ -107,7 +107,7 @@ const GATEWAY_V1 = {
         "SBINFTForwarder": "0xF94Eb74447C1Ccb9Bc10B0626c581a4dBD342a7C",
         "SBINFTMultiCall": "0xAe6D415B807c3FbB85eb78CAbdCdCaa5EB37bEEF"
       },
-    },    
+    },
     oas_testnet: {
       Proxy: {
         SBINFTForwarder: "0x22fF92594Ee0EB70Cbffe673f55A9Dd7c4Dc8199",
@@ -128,8 +128,8 @@ const GATEWAY_V1 = {
     },
     avalanche: {
       Proxy: {
-        SBINFTForwarder: "0x67EdE2D605352cdD7520d3154bca6588402BC6b1",
-        SBINFTMultiCall: "0x3135b4D21E89C4AE9601D697A228B3b7adDa4e78",
+        SBINFTForwarder: "0x9651555d3C882D52657C9399c79De6e212aBee3d",
+        SBINFTMultiCall: "0x6239D3395c357B9fD1B16029908E389a4263226A",
       },
     },
   },
@@ -347,7 +347,7 @@ const MARKET_V1 = {
         TransferProxy: '0xF020219090d4563D094fCd254D35b5C51bE5BBfC',
         PlatformRegistry: '0x3CEA44C54ca034cFa5843fE66A0E12f089198cEb'
       },
-    },    
+    },
     oas_testnet: {
       Proxy: {
         Exchange: "0x5DCf64eD66153FB661A1Ec244749A884e02a1097",
